@@ -1,0 +1,38 @@
+#orange {
+    background-color: #FF8F00 !important;
+}
+
+.orange {
+    background-color: #FF8F00 !important;
+}
+
+a.btn,
+button.btn {
+    background-color: #181485;
+}
+
+a.btn:hover,
+button.btn:hover {
+    background-color: rgb(24, 20, 133);
+}
+
+.text-dark-blue {
+    color: #181485 !important;
+    letter-spacing: -2px;
+    font-size: 32px;
+    font-family: "Barlow", sans-serif;
+}
+
+nav {
+    padding: 0 1rem;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+@media (max-width:768px) {
+    .w-50 {
+        width: 75% !important;
+    }
+}
